@@ -1,0 +1,112 @@
+{
+  "name": "just-another-skill",
+  "description": "Collection of Claude Code skills for AI image generation, video production, writing, automation, and creative direction",
+  "owner": {
+    "name": "ddm21",
+    "email": "contact@example.com"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "openrouter-images-skill",
+      "source": "./plugins/openrouter-images-skill",
+      "description": "AI image generation Creative Director powered by Gemini via OpenRouter. Text-to-image, image editing, batch processing, and cost tracking.",
+      "version": "2.0.0",
+      "category": "creative",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["images", "ai", "generation", "openrouter", "creative"]
+    },
+    {
+      "name": "visual-prompt-crafter",
+      "source": "./plugins/visual-prompt-crafter",
+      "description": "Craft and improve visual prompts for AI image generators. Creates compelling prompts, enhances existing ones, and analyzes reference images.",
+      "version": "1.0.0",
+      "category": "creative",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["prompts", "images", "creative", "design"]
+    },
+    {
+      "name": "humanizer",
+      "source": "./plugins/humanizer",
+      "description": "Remove signs of AI-generated writing from text. Makes content sound natural and human-written.",
+      "version": "1.0.0",
+      "category": "writing",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["writing", "ai-detection", "humanize", "content"]
+    },
+    {
+      "name": "human-voice",
+      "source": "./plugins/human-voice",
+      "description": "Transform raw thoughts into polished communications. Emails, sales pitches, support replies, and negotiations that sound authentically human.",
+      "version": "1.0.0",
+      "category": "writing",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["communication", "writing", "voice", "professional"]
+    },
+    {
+      "name": "n8n-node-builder",
+      "source": "./plugins/n8n-node-builder",
+      "description": "Build custom n8n community nodes from scratch. Creates production-ready integrations for any API.",
+      "version": "1.0.0",
+      "category": "automation",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["n8n", "automation", "integrations", "api", "nodes"]
+    },
+    {
+      "name": "ai-director",
+      "source": "./plugins/ai-director",
+      "description": "Master framework for AI image generation, cinematic video direction, and narrative storytelling.",
+      "version": "1.0.0",
+      "category": "creative",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["ai", "images", "video", "cinematography", "storytelling"]
+    },
+    {
+      "name": "seedance-director",
+      "source": "./plugins/seedance-director",
+      "description": "Video prompt director for Seedance 2.0. Converts scene descriptions into production-ready bilingual video prompts.",
+      "version": "1.0.0",
+      "category": "video",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["video", "ai", "direction", "seedance", "production"]
+    },
+    {
+      "name": "thumbnail-creator",
+      "source": "./plugins/thumbnail-creator",
+      "description": "YouTube thumbnail creative director. Generates high-converting thumbnail prompts with 33+ techniques.",
+      "version": "1.0.0",
+      "category": "creative",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["youtube", "thumbnails", "design", "creative", "marketing"]
+    },
+    {
+      "name": "easypanel-template",
+      "source": "./plugins/easypanel-template",
+      "description": "Generate production-ready Easypanel deployment templates for any self-hosted app.",
+      "version": "1.0.0",
+      "category": "deployment",
+      "author": {
+        "name": "ddm21"
+      },
+      "keywords": ["easypanel", "docker", "deployment", "infrastructure"]
+    }
+  ]
+}

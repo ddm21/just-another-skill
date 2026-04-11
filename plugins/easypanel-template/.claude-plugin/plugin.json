@@ -1,0 +1,9 @@
+{
+  "name": "easypanel-template",
+  "description": "Generate production-ready Easypanel deployment templates for any self-hosted app.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}

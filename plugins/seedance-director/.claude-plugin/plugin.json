@@ -1,0 +1,9 @@
+{
+  "name": "seedance-director",
+  "description": "Video prompt director for Seedance 2.0. Converts scene descriptions into production-ready bilingual video prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}

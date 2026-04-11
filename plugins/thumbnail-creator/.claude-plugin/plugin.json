@@ -1,0 +1,9 @@
+{
+  "name": "thumbnail-creator",
+  "description": "YouTube thumbnail creative director. Generates high-converting thumbnail prompts with 33+ techniques.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}

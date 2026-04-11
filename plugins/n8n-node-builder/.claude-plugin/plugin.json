@@ -1,0 +1,9 @@
+{
+  "name": "n8n-node-builder",
+  "description": "Build custom n8n community nodes from scratch. Creates production-ready integrations for any API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}

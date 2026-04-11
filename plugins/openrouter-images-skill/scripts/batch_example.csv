@@ -1,0 +1,8 @@
+prompt,ratio,resolution,model
+"a cozy coffee shop with warm lighting and vintage furniture",16:9,1K,google/gemini-3.1-flash-image-preview
+"portrait of a professional business person in suit",1:1,1K,google/gemini-3.1-flash-image-preview
+"minimalist product shot of a luxury perfume bottle on marble",4:3,2K,google/gemini-3.1-flash-image-preview
+"abstract geometric pattern with blue and gold colors",1:1,1K,google/gemini-2.5-flash-image
+"cinematic landscape of snowy mountains at sunset",21:9,2K,google/gemini-3.1-flash-image-preview
+"vintage-style travel poster for paris with eiffel tower",4:3,2K,google/gemini-3.1-flash-image-preview
+"a cute cartoon character mascot for a tech startup",1:1,1K,google/gemini-3.1-flash-image-preview

@@ -1,0 +1,9 @@
+{
+  "name": "ai-director",
+  "description": "Master framework for AI image generation, cinematic video direction, and narrative storytelling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}

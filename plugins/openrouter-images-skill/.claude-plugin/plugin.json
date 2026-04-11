@@ -1,0 +1,9 @@
+{
+  "name": "openrouter-images-skill",
+  "description": "AI image generation Creative Director powered by Gemini via OpenRouter. Text-to-image, image editing, batch processing, and cost tracking.",
+  "version": "2.0.0",
+  "author": {
+    "name": "ddm21"
+  },
+  "license": "MIT"
+}
